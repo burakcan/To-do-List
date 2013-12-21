@@ -1,4 +1,4 @@
-class StorageHelper
+class Storaj
   constructor: (options = {}) ->
     options.name         or=  "defaultStorage"
     options.initialData  or=  {}

@@ -2,7 +2,7 @@ class TodoList
   constructor : (options = {}) ->
     options.name          or= "defaultList"
     options.initialData   or= {}
-    options.storage       or= new StorageHelper name : options.name
+    options.storage       or= new Storaj name : options.name
     options.parent        or= document.body
     @options                = options
     @storage                = options.storage
