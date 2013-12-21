@@ -1,0 +1,12 @@
+{
+  "name": "todohs",
+  "version": "0.0.1",
+  "description": "An example todo list",
+  "author": "Burak Can",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
